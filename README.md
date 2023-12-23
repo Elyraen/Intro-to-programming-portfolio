@@ -1,1 +1,4 @@
-# CSCI261-Coding-Projects
+# Intro To Computer Sciecne Coding Projects
+## Status: ✅Complete
+---
+### A collection of coding labs and projects completed during my CSCI261 (Intro to Computer Science) course.
