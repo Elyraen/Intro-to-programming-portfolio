@@ -1,4 +1,4 @@
-# DNA Sequence Analysis
+# 🧬DNA Sequence Analysis
 
 This Python script analyzes DNA sequences. It first counts the occurrences of the 
 nucleotides 'A', 'C', and 'T' in a given DNA sequence. Then, it checks if a specific sequence, 
